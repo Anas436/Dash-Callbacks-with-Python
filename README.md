@@ -25,6 +25,10 @@ Below is the expected result from the lab. Our dashboard application consists of
     
 </div>
 
+__`Later in the browser address bar use this`:__
+
+http://localhost:8090
+
 #### Airline Reporting Carrier On-Time Performance Dataset
 
 The Reporting Carrier On-Time Performance Dataset contains information on approximately 200 million domestic US flights reported to the United States Bureau of Transportation Statistics. The dataset contains basic information about each flight (such as date, time, departure airport, arrival airport) and, if applicable, the amount of time the flight was delayed and information about the reason for the delay. This dataset can be used to predict the likelihood of a flight arriving on time.
